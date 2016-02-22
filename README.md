@@ -1,4 +1,4 @@
 # Feed2KindleR
-R Code to parse RSS/Atom feeds and then send items to Kindle
+R Code to parse RSS/Atom feeds and then send items to Kindle. 
 
-(m)
+- Install KindleGen from Amazon and put it into the evironment variable
